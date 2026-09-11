@@ -1,4 +1,8 @@
-<img src="https://github.com/tawhid2001/tawhid2001/blob/main/Beige%20and%20White%20Modern%20LinkedIn%20Background%20Photo.png" alt="LinkedIn Background" style="width:100%; height:auto;">
+<p align="center">
+  <img src="./poster_for_linkedin.png"
+       alt="Tawhid Talal - Full Stack Developer"
+       width="100%" />
+</p>
 
 # 💫 About Me:
 Hi there! 👋 I'm Tawhid Talal, a passionate full-stack developer and software engineer with a strong foundation in C, C++, Python, JavaScript, HTML, CSS, and frameworks like Django and Django REST Framework. I enjoy building e-learning platforms, creating interactive web applications, and contributing to open-source projects.<br><br>Currently, I'm pursuing my degree at UMGC, where I’ve completed 67 credits and continue expanding my knowledge in data structures, algorithms, and modern web technologies. Alongside my studies, I'm also exploring opportunities as a tutor, helping others master programming concepts.<br><br>I thrive on solving complex problems, learning new technologies, and collaborating on meaningful projects. If you're interested in working together or just want to connect, feel free to reach out! My portfolio website <a href="https://tawhid-talal-portfolio.netlify.app/">Tawhid's Portfolio</a>
