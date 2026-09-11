@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./poster_for_linkedin.png"
+  <img src="./poster_for_github.png"
        alt="Tawhid Talal - Full Stack Developer"
        width="100%" />
 </p>
